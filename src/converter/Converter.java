@@ -12,8 +12,6 @@ import javax.xml.parsers.SAXParserFactory;
 public class Converter {
     
     private final static String pathXML = "xml.xml";
-   
-    
     public static void main(String args[]) throws IOException {
 
 //Входной файл, содержащий XML документ
