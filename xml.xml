@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountsInfo>
+    <Account id="11111">
+        <FIO>
+            <LastName>Иванов</LastName>
+            <FirstName>Иван</FirstName>
+            <MiddleName>Иванович</MiddleName>
+            <DaytOfBirth>1111-11-01</DaytOfBirth>
+        </FIO>
+        <AccountSummary>
+            <Balance>112231231</Balance>
+            <LastPayment>11111</LastPayment>
+            <TotalAmount>111111111</TotalAmount>
+            <DateOfReg>1111-11-02</DateOfReg>
+        </AccountSummary>
+    </Account>
+    <Account id="2222222">
+        <FIO>
+            <LastName>Петров</LastName>
+            <FirstName>Петр</FirstName>
+            <MiddleName>Петрович</MiddleName>
+            <DaytOfBirth>2222-11-01</DaytOfBirth>
+        </FIO>
+        <AccountSummary>
+            <Balance>22222</Balance>
+            <LastPayment>2222</LastPayment>
+            <TotalAmount>22222222</TotalAmount>
+            <DateOfReg>2222-11-02</DateOfReg>
+        </AccountSummary>
+    </Account>
+	<Account id="33333">
+        <FIO>
+            <LastName>Сидоров</LastName>
+            <FirstName>Сидр</FirstName>
+            <MiddleName>Сидорович</MiddleName>
+            <DaytOfBirth>3333-11-01</DaytOfBirth>
+        </FIO>
+        <AccountSummary>
+            <Balance>33333</Balance>
+            <LastPayment>33333</LastPayment>
+            <TotalAmount>33332223</TotalAmount>
+            <DateOfReg>3333-11-02</DateOfReg>
+        </AccountSummary>
+    </Account>
+		<Account id="33333">
+        <FIO>
+            <LastName>Сидоров</LastName>
+            <FirstName>Сидр</FirstName>
+            <MiddleName>Сидорович</MiddleName>
+            <DaytOfBirth>3333-11-01</DaytOfBirth>
+        </FIO>
+        <AccountSummary>
+            <Balance>33333</Balance>
+            <LastPayment>33333</LastPayment>
+            <TotalAmount>33332223</TotalAmount>
+            <DateOfReg>3333-11-02</DateOfReg>
+        </AccountSummary>
+    </Account>
+</AccountsInfo>
